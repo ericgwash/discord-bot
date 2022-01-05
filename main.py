@@ -26,4 +26,4 @@ async def on_member_join(member):
         f'Hello {member.name}!! Welcome to Our Discord Server!'
     )        
 keep_alive()
-client.run("OTA5NzczOTM3MDQ1NTU3MjU4.YZJLAQ.4oUlt8mU3_p5wJ02bXnvEZthioY")
+client.run("INSERT TOKEN ID HERE ")
